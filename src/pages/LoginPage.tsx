@@ -1,5 +1,5 @@
 import Form from "../components/forms/Form";
-import Button from "../components/forms/Button";
+import Button from "../components/common/Button";
 import type {UserRole}  from "../types";
 
 // Define the user roles

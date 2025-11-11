@@ -1,1 +1,3 @@
-export type UserRole = 'operator' | 'supervisor';
+// Re-export all types
+export * from './user.types';
+export * from './extrusion.types';

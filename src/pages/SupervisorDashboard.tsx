@@ -1,4 +1,4 @@
-import Button from "../components/forms/Button";
+import Button from "../components/common/Button";
 
 interface SupervisorDashboardProps {
   onLogout: () => void;
